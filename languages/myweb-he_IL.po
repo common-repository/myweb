@@ -1,0 +1,977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyWeb\n"
+"POT-Creation-Date: 2021-04-03 10:41+0530\n"
+"PO-Revision-Date: 2021-04-03 10:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? 2 : 3);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: myweb.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-myweb-ac-customizer.php:14
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Toolbar Icon"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-customizer.php:17
+msgid "Wheelchair"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:18
+msgid "One Click"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:19 admin/class-myweb-ac-customizer.php:179
+#: admin/class-myweb-ac-settings.php:572 admin/class-myweb-ac-settings.php:573
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: admin/class-myweb-ac-customizer.php:22
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Set Toolbar Icon"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-customizer.php:27
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Toolbar Position"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-customizer.php:30
+msgid "Left"
+msgstr "שמאל"
+
+#: admin/class-myweb-ac-customizer.php:31
+msgid "Right"
+msgstr "ימין"
+
+#: admin/class-myweb-ac-customizer.php:34
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Set Toolbar Position"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-customizer.php:39
+msgid "Offset from Top (Desktop)"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:42
+msgid "Set Toolbar top offset (Desktop)"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:47
+msgid "Offset from Top (Mobile)"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:50
+msgid "Set Toolbar top offset (Mobile)"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:55
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Toolbar Background"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-customizer.php:60
+msgid "Set Toolbar background color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:65
+#, fuzzy
+#| msgid "Toolbar"
+msgid "Toolbar Color"
+msgstr "סרגל נגישות"
+
+#: admin/class-myweb-ac-customizer.php:70
+msgid "Set Toolbar text color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:75
+#, fuzzy
+#| msgid "Light Background"
+msgid "Toggle Button Background"
+msgstr "רקע קל"
+
+#: admin/class-myweb-ac-customizer.php:78
+msgid "Set Toolbar toggle button background color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:83
+msgid "Toggle Button Hover Background"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:86
+msgid "Set Toolbar toggle button hover background color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:91
+msgid "Toggle Button Color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:96
+msgid "Set Toolbar toggle button icon color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:101
+#, fuzzy
+#| msgid "Light Background"
+msgid "Active Background"
+msgstr "רקע קל"
+
+#: admin/class-myweb-ac-customizer.php:106
+msgid "Set Toolbar active background color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:111
+#, fuzzy
+#| msgid "Activate the toolbar"
+msgid "Active Color"
+msgstr "הפעלת סרגל הנגישות"
+
+#: admin/class-myweb-ac-customizer.php:116
+msgid "Set Toolbar active text color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:121
+#, fuzzy
+#| msgid "Custom Outline"
+msgid "Focus Outline Style"
+msgstr "קו תוחם בצבע מותאם אישית"
+
+#: admin/class-myweb-ac-customizer.php:124
+msgid "Solid"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:125
+msgid "Dotted"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:126
+msgid "Dashed"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:127
+msgid "Double"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:128
+msgid "Groove"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:129
+msgid "Ridge"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:130
+msgid "Outset"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:131
+msgid "Initial"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:134
+msgid "Set Focus outline style"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:139
+#, fuzzy
+#| msgid "Custom Outline"
+msgid "Focus Outline Width"
+msgstr "קו תוחם בצבע מותאם אישית"
+
+#: admin/class-myweb-ac-customizer.php:154
+msgid "Set Focus outline width"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:159
+#, fuzzy
+#| msgid "Custom Outline"
+msgid "Focus Outline Color"
+msgstr "קו תוחם בצבע מותאם אישית"
+
+#: admin/class-myweb-ac-customizer.php:162
+msgid "Set Focus outline color"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:173
+msgid ""
+"Use the control below to customize the appearance and layout of the Accessibility "
+"Toolbar"
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:174
+#, php-format
+msgid "Additional Toolbar settings can be configured at the %s page."
+msgstr ""
+
+#: admin/class-myweb-ac-customizer.php:175 admin/class-myweb-ac-settings.php:589
+msgid "Accessibility Toolbar"
+msgstr "סרגל נגישות"
+
+#: admin/class-myweb-ac-settings.php:35
+#, fuzzy
+#| msgid "Toolbar"
+msgid "Display Toolbar"
+msgstr "סרגל נגישות"
+
+#: admin/class-myweb-ac-settings.php:38
+msgid "Show on all devices"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:39
+msgid "Visible Desktop"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:40
+msgid "Visible Tablet"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:41
+msgid "Visible Phone"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:42
+msgid "Hidden Desktop"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:43
+msgid "Hidden Tablet"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:44
+msgid "Hidden Phone"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:45 admin/class-myweb-ac-settings.php:68
+#: admin/class-myweb-ac-settings.php:96 admin/class-myweb-ac-settings.php:116
+#: admin/class-myweb-ac-settings.php:136 admin/class-myweb-ac-settings.php:156
+#: admin/class-myweb-ac-settings.php:176 admin/class-myweb-ac-settings.php:196
+#: admin/class-myweb-ac-settings.php:303 admin/class-myweb-ac-settings.php:315
+#: admin/class-myweb-ac-settings.php:327 admin/class-myweb-ac-settings.php:339
+#: admin/class-myweb-ac-settings.php:351
+#, fuzzy
+#| msgid "Disable flashes"
+msgid "Disable"
+msgstr "ביטול הבהובים"
+
+#: admin/class-myweb-ac-settings.php:54
+msgid "Title"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:56
+msgid "Title top of the toolbar (recommended)."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:58
+msgid "Accessibility Tools"
+msgstr "כלי נגישות"
+
+#: admin/class-myweb-ac-settings.php:63
+#, fuzzy
+#| msgid "Readable Font"
+msgid "Resize Font"
+msgstr "גופן קריא"
+
+#: admin/class-myweb-ac-settings.php:67 admin/class-myweb-ac-settings.php:95
+#: admin/class-myweb-ac-settings.php:115 admin/class-myweb-ac-settings.php:135
+#: admin/class-myweb-ac-settings.php:155 admin/class-myweb-ac-settings.php:175
+#: admin/class-myweb-ac-settings.php:195 admin/class-myweb-ac-settings.php:302
+#: admin/class-myweb-ac-settings.php:314 admin/class-myweb-ac-settings.php:326
+#: admin/class-myweb-ac-settings.php:338 admin/class-myweb-ac-settings.php:350
+msgid "Enable"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:75 admin/class-myweb-ac-settings.php:78
+msgid "Increase Text"
+msgstr "הגדל את הטקסט"
+
+#: admin/class-myweb-ac-settings.php:83 admin/class-myweb-ac-settings.php:86
+msgid "Decrease Text"
+msgstr "הקטן טקסט"
+
+#: admin/class-myweb-ac-settings.php:91 admin/class-myweb-ac-settings.php:106
+msgid "Grayscale"
+msgstr "גווני אפור"
+
+#: admin/class-myweb-ac-settings.php:103
+#, fuzzy
+#| msgid "Grayscale"
+msgid "Grayscale Title"
+msgstr "גווני אפור"
+
+#: admin/class-myweb-ac-settings.php:111 admin/class-myweb-ac-settings.php:126
+msgid "High Contrast"
+msgstr "ניגודיות גבוה"
+
+#: admin/class-myweb-ac-settings.php:123
+#, fuzzy
+#| msgid "High Contrast"
+msgid "High Contrast Title"
+msgstr "ניגודיות גבוה"
+
+#: admin/class-myweb-ac-settings.php:131 admin/class-myweb-ac-settings.php:146
+msgid "Negative Contrast"
+msgstr "ניגודיות שלילית"
+
+#: admin/class-myweb-ac-settings.php:143
+#, fuzzy
+#| msgid "Negative Contrast"
+msgid "Negative Contrast Title"
+msgstr "ניגודיות שלילית"
+
+#: admin/class-myweb-ac-settings.php:151 admin/class-myweb-ac-settings.php:166
+msgid "Light Background"
+msgstr "רקע קל"
+
+#: admin/class-myweb-ac-settings.php:163
+#, fuzzy
+#| msgid "Light Background"
+msgid "Light Background Title"
+msgstr "רקע קל"
+
+#: admin/class-myweb-ac-settings.php:171 admin/class-myweb-ac-settings.php:186
+msgid "Links Underline"
+msgstr "קו תחתון לקישורים"
+
+#: admin/class-myweb-ac-settings.php:183
+#, fuzzy
+#| msgid "Links Underline"
+msgid "Links Underline Title"
+msgstr "קו תחתון לקישורים"
+
+#: admin/class-myweb-ac-settings.php:191 admin/class-myweb-ac-settings.php:206
+msgid "Readable Font"
+msgstr "גופן קריא"
+
+#: admin/class-myweb-ac-settings.php:203
+#, fuzzy
+#| msgid "Readable Font"
+msgid "Readable Font Title"
+msgstr "גופן קריא"
+
+#: admin/class-myweb-ac-settings.php:211
+msgid "Sitemap Title"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:214
+msgid "Sitemap"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:219
+msgid "Sitemap Link"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:222
+msgid "Link for sitemap page in your website. Leave blank to disable."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:229
+msgid "Help Title"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:232
+msgid "Help"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:237
+msgid "Help Link"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:240
+msgid "Link for help page in your website. Leave blank to disable."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:247
+msgid "Feedback Title"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:250
+#, fuzzy
+#| msgid "Leave feedback"
+msgid "Feedback"
+msgstr "השארת משוב"
+
+#: admin/class-myweb-ac-settings.php:255
+msgid "Feedback Link"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:258
+msgid "Link for feedback page in your website. Leave blank to disable."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:265
+#, fuzzy
+#| msgid "Statement"
+msgid "Statement popup"
+msgstr "הצהרה"
+
+#: admin/class-myweb-ac-settings.php:266
+msgid "Text inside statement popup"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:277
+#, fuzzy
+#| msgid "Toolbar Skin"
+msgid "Toolbar Settings"
+msgstr "סגנון סרגל"
+
+#: admin/class-myweb-ac-settings.php:285
+msgid "Style Settings"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:286
+#, php-format
+msgid ""
+"For style settings of accessibility tools go to > Customize > <a href=\"%s"
+"\">Accessibility</a>."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:298
+msgid "Add Outline Focus"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:300
+msgid "Add outline to elements on keyboard focus."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:310
+msgid "Skip to Content link"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:312
+msgid "Add skip to content link when using keyboard."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:322
+msgid "Remove target attribute from links"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:324
+msgid "This option will reset all your target links to open in the same window or tab."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:334
+msgid "Add landmark roles to all links"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:336
+msgid "This option will add <code>role=\"link\"</code> to all links on the page."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:346
+#, fuzzy
+#| msgid "Accessibility"
+msgid "Sitewide Accessibility"
+msgstr "נגישות"
+
+#: admin/class-myweb-ac-settings.php:347
+msgid ""
+"Consistent accessibility throughout your site visit. Site remembers you and stays "
+"accessible."
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:359
+msgid "Remember user for"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:361
+msgid "Define how long your toolbar settings will be remembered"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:363
+msgid "1 Hour"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:364
+msgid "6 Hours"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:365
+msgid "12 Hours"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:366
+msgid "1 Day"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:367
+msgid "2 Days"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:368
+msgid "3 Days"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:369
+msgid "1 Week"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:370
+msgid "1 Month"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:378
+#, fuzzy
+#| msgid "General"
+msgid "General Settings"
+msgstr "כללי"
+
+#: admin/class-myweb-ac-settings.php:581
+#, fuzzy
+#| msgid "Accessibility statement"
+msgid "Accessibility Settings"
+msgstr "הצהרת נגישות"
+
+#: admin/class-myweb-ac-settings.php:582 admin/class-myweb-ac-settings.php:606
+msgid "Settings"
+msgstr ""
+
+#: admin/class-myweb-ac-settings.php:590 admin/class-myweb-ac-settings.php:607
+msgid "Toolbar"
+msgstr "סרגל נגישות"
+
+#: admin/class-myweb-ac-settings.php:597 admin/class-myweb-ac-settings.php:598
+#: admin/class-myweb-ac-settings.php:608
+#, fuzzy
+#| msgid "Customization"
+msgid "Customize"
+msgstr "עיצוב"
+
+#: admin/class-myweb-ac-settings.php:606
+#, fuzzy
+#| msgid "Accessibility statement"
+msgid "Set Accessibility settings"
+msgstr "הצהרת נגישות"
+
+#: admin/class-myweb-ac-settings.php:607
+#, fuzzy
+#| msgid "Accessibility Toolbar"
+msgid "Set Accessibility Toolbar Settings"
+msgstr "סרגל נגישות"
+
+#: admin/class-myweb-ac-settings.php:608
+#, fuzzy
+#| msgid "Customization"
+msgid "Customize Toolbar"
+msgstr "עיצוב"
+
+#: admin/class-myweb-ac-settings.php:657 admin/class-myweb-ac-settings.php:658
+#, fuzzy
+#| msgid "Accessibility"
+msgid "Wordpress Accessibility"
+msgstr "נגישות"
+
+#: public/class-myweb-public.php:251
+msgid "Skip to content"
+msgstr ""
+
+#: public/class-myweb-public.php:366
+msgid ""
+"This Website is committed to ensuring digital accessibility for people with disabilities"
+msgstr ""
+"אנו שמים דגש רב עבור התאמת אתר אינטרנט זה לתקן הנגישות הישראלי. באתר בוצעו התאמות "
+"נגישות לפי תקן 5568 ותקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות), ניתן "
+"לגלוש בו באופן נגיש יותר דרך הדפדפנים כרום ופיירפוקס"
+
+#: public/class-myweb-public.php:367
+msgid ""
+"We are continually improving the user experience for everyone, and applying the "
+"relevant accessibility standards."
+msgstr ""
+"הננו עושים את מירב המאמצים על מנת לבצע התאמות נגישות באתר, ייתכן ובאתר זה ימצאו רכיבים "
+"ו/או עמודים אשר אינם עומדים בתקן הנדרש, במידה ונתקלת בכשל נגישות כלשהו נודה לך אם תדווח "
+"לנו על כך דרך עמוד יצירת הקשר. אנו נמשיך לעשות כל מאמץ על מנת לאפשר גלישה נגישה ונוחה "
+"באתר זה לכולם."
+
+#: public/class-myweb-public.php:372
+msgid "Conformance status"
+msgstr "סטטוס תאימות"
+
+#: public/class-myweb-public.php:374
+msgid "Developed by"
+msgstr "פותח על ידי"
+
+#: public/class-myweb-public.php:384
+#, fuzzy
+#| msgid "Toolbar"
+msgid "Open toolbar"
+msgstr "סרגל נגישות"
+
+#: public/class-myweb-public.php:397
+msgid "Information and settings"
+msgstr "מידע והגדרות"
+
+#: public/class-myweb-public.php:403
+msgid "Statement"
+msgstr "הצהרה"
+
+#: public/class-myweb-public.php:444
+msgid "Text Size"
+msgstr "גודל טקסט"
+
+#: public/class-myweb-public.php:460
+msgid "Reset"
+msgstr "איפוס"
+
+#: public/class-myweb-public.php:468
+msgid "Colors"
+msgstr "צבעים"
+
+#: public/class-myweb-public.php:504
+msgid "Emphasis"
+msgstr "דָגֵשׁ"
+
+#. Plugin Name of the plugin/theme
+msgid "MyWeb"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/MyWeb"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "MyWeb plugin is the fastest plugin to help you make your website more accessible."
+msgstr ""
+
+#. Author of the plugin/theme
+#, fuzzy
+#| msgid "AGHAI Web Development"
+msgid "MyWeb website development"
+msgstr "בניית אתרים "
+
+#. Author URI of the plugin/theme
+msgid "https://www.myweb.co.il"
+msgstr ""
+
+#~ msgid "Opening WordPress sites to people with disabilites"
+#~ msgstr "מנגישים אתרי וורדפרס לבעלי מוגבלויות"
+
+#~ msgid "Skiplinks"
+#~ msgstr "קישורי דילוג"
+
+#~ msgid "Custom Code"
+#~ msgstr "קוד מותאם אישית"
+
+#~ msgid "Images"
+#~ msgstr "תמונות"
+
+#~ msgid ""
+#~ "Add empty value for the Alternative text attribute (ALT) when the attribute is "
+#~ "missing."
+#~ msgstr "הוספת תכונת טקסט חלופי עם ערך ריק לתמונות שאין להן טקסט חלופי כלל (מומלץ)"
+
+#~ msgid "Focus"
+#~ msgstr "פוקוס"
+
+#~ msgid "Add effect for items in focus mode:"
+#~ msgstr "הוספת אפקט לרכיבים במצב פוקוס:"
+
+#~ msgid "Don't do nothing"
+#~ msgstr "אל תעשה כלום"
+
+#~ msgid "Only using the toolbar"
+#~ msgstr "רק באמצעות סרגל הנגישות"
+
+#~ msgid "Use always"
+#~ msgstr "תמיד"
+
+#~ msgid "Choose the type of effect for focus mode:"
+#~ msgstr "בחר/י את סוג האפקט לרכיבים במצב פוקוס:"
+
+#~ msgid "-- None --"
+#~ msgstr "— ללא —"
+
+#~ msgid "Red outline"
+#~ msgstr "קו אדום תוחם"
+
+#~ msgid "Blue outline"
+#~ msgstr "קו כחול תוחם"
+
+#~ msgid "Yellow background"
+#~ msgstr "רקע צהוב"
+
+#~ msgid ""
+#~ "Use <strong>!important</strong> for the outline CSS (check this only if the outline "
+#~ "does not work)."
+#~ msgstr ""
+#~ "השתמש ב-<strong>!important</strong> עבור הגדרות הפוקוס (בחר/י באפשרות זו רק אם האפקט "
+#~ "אינו עובד)."
+
+#~ msgid "Links"
+#~ msgstr "קישורים"
+
+#~ msgid "On focus mode only"
+#~ msgstr "במצב פוקוס בלבד"
+
+#~ msgid "On focus and hover mode"
+#~ msgstr "במצב פוקוס במצב שהעכבר מעליו (hover)"
+
+#~ msgid "Always"
+#~ msgstr "תמיד"
+
+#~ msgid ""
+#~ "Use <strong>!important</strong> for the underline CSS (check this only if the "
+#~ "underline does not work)."
+#~ msgstr ""
+#~ "השתמש ב-<strong>!important</strong> עבור הגדרות קו תחתון לקישורים (בחר/י באפשרות זו "
+#~ "רק אם הקו התחתון אינו מתווסף)."
+
+#~ msgid "Disable the black screen"
+#~ msgstr "ביטול המסך השחור שמופיע כשסרגל הנגישות פתוח"
+
+#~ msgid "Hide the toolbar for mobile users"
+#~ msgstr "הסתרת סרגל הנגישות למשתמשי מובייל"
+
+#~ msgid "Hide the button to disable flashes"
+#~ msgstr "הסתרת הלחצן לביטול הבהובים"
+
+#~ msgid "Hide the button to to mark heading"
+#~ msgstr "הסתרת הלחצן לסימון כותרות"
+
+#~ msgid "Hide the screen zoom buttons"
+#~ msgstr "הסתרת לחצני הזום"
+
+#~ msgid "Hide the font resize buttons"
+#~ msgstr "הסתרת לחצני שינוי גודל הגופן"
+
+#~ msgid "Hide the button that change to readable font"
+#~ msgstr "הסתרת הלחצן לגופן קריא"
+
+#~ msgid "Hide the contrast buttons"
+#~ msgstr "הסתרת לחצני ניגודיות הצבעים"
+
+#~ msgid "Hide the underline button"
+#~ msgstr "הסתרת הלחצן עבור קו תחתון לקישורים"
+
+#~ msgid "Hide the button to mark links"
+#~ msgstr "הסתרת הלחצן לסימון קישורים"
+
+#~ msgid "Visibility"
+#~ msgstr "נראות"
+
+#~ msgid "Mark headings mode"
+#~ msgstr "מצב סימון כותרות"
+
+#~ msgid "Readable font mode"
+#~ msgstr "מצב גופן קריא"
+
+#~ msgid "Contrast modes"
+#~ msgstr "מצבי ניגודיות צבעים"
+
+#~ msgid "Underline mode"
+#~ msgstr "מצב קו תחתון לקישורים"
+
+#~ msgid "Mark links mode"
+#~ msgstr "מצב סימון קישורים"
+
+#~ msgid "CSS Important (Advanced)"
+#~ msgstr "CSS Important (מתקדם)"
+
+#~ msgid ""
+#~ "You can hardened the effect of some toolbar button with the use of CSS important. "
+#~ "this is not the best way, the best way is to implement a better CSS by yourself with "
+#~ "Accessible Poetry set of classes."
+#~ msgstr ""
+#~ "ניתן להקשיח את האפקטים של לחצני סרגל הנגישות באמצעות שימוש בתכונת CSS מסוג "
+#~ "Important. זו אינה הדרך האופטימלית, הדרך הטובה ביותר לתקן סטיות היא באמצעות כתיבת "
+#~ "קוד ה-CSS בעצמך על ידי שימוש בקלאסים שמתווספים לתגית body."
+
+#~ msgid "Classic"
+#~ msgstr "קלאסי"
+
+#~ msgid "Flat"
+#~ msgstr "שטוח"
+
+#~ msgid "Rounded"
+#~ msgstr "מעוגל"
+
+#~ msgid "Minimal"
+#~ msgstr "מינימלי"
+
+#~ msgid "Smooth"
+#~ msgstr "חלק"
+
+#~ msgid "Space"
+#~ msgstr "חללי"
+
+#~ msgid "Toolbar Side"
+#~ msgstr "מיקום סרגל"
+
+#~ msgid "Right side"
+#~ msgstr "צד ימין"
+
+#~ msgid "Left side"
+#~ msgstr "צד שמאל"
+
+#~ msgid "Icon Size"
+#~ msgstr "גודל אייקון"
+
+#~ msgid "Normal size"
+#~ msgstr "גודל רגיל"
+
+#~ msgid "Big size"
+#~ msgstr "גדול"
+
+#~ msgid "Small size"
+#~ msgstr "קטן"
+
+#~ msgid "Positioning of the icon and the toolbar from top"
+#~ msgstr "מיקום האייקון ביחס לחלק העליון"
+
+#~ msgid "Additional Buttons"
+#~ msgstr "לחצנים נוספים"
+
+#~ msgid ""
+#~ "To display a link to your Accessibility Statement page, select your Accessibility "
+#~ "Statement page"
+#~ msgstr "להוספת קישור להצהרת הנגישות יש לבחור את עמוד הצהרת הנגישות במערכת"
+
+#~ msgid "Select page"
+#~ msgstr "בחירת עמוד"
+
+#~ msgid "To display a link to your Feedback page, select your Feedback page"
+#~ msgstr "להוספת קישור להשארת משוב יש לבחור את עמוד השארת המשוב במערכת"
+
+#~ msgid "Font Size Modifier"
+#~ msgstr "משנה גודל גופן"
+
+#~ msgid ""
+#~ "Include additional elements that should be affected with the font size modifier "
+#~ "(default is: body, p, h1, h2, h3, h4, h5, h6, label, input, a, button, textarea)"
+#~ msgstr ""
+#~ "כלול רכיבים נוספים שיש להשפיע עליהם עם לחצני שינוי גודל הגופן. הפרד את תכונות ה-CSS "
+#~ "אחת מהשניה באמצעות פסיק (ברירת מחדל: p‪,‬ h1‪,‬ h2‪,‬ h3‪,‬ h4‪,‬ h5‪,‬ h6‪,‬ label‪,‬ input‪,‬ "
+#~ "textarea‪,‬ a‪,‬ button‪).‬"
+
+#~ msgid "Exclude additional elements from the effect of the font size modifier"
+#~ msgstr ""
+#~ "אל תכלול את הרכיבים הבאים בעת השפעת לחצני שינוי גודל הגופן. יש להפריד את תכונות ה-"
+#~ "CSS באמצעות פסיק. לדוגמה: h1‪.‬single‪-‬title‪,‬ ‪.‬box‪-‬element‪,‬ label."
+
+#~ msgid "Activate skiplinks menus"
+#~ msgstr "הפעלת קישורי הדילוג"
+
+#~ msgid "Skiplinks Side"
+#~ msgstr "מיקום קישורי הדילוג"
+
+#~ msgid "Add additional CSS code"
+#~ msgstr "הוספת קוד CSS"
+
+#~ msgid "Add additional JS code"
+#~ msgstr "הוספת קוד JS"
+
+#~ msgid "Accessibility Icon"
+#~ msgstr "סמל נגישות"
+
+#~ msgid "Close the accessibility toolbar"
+#~ msgstr "סגירת סרגל הנגישות"
+
+#~ msgid "Keyboard navigation"
+#~ msgstr "ניווט מקלדת"
+
+#~ msgid "Mark headings"
+#~ msgstr "סימון כותרות"
+
+#~ msgid "Resolution"
+#~ msgstr "זום"
+
+#~ msgid "Zoom in"
+#~ msgstr "התקרב"
+
+#~ msgid "Zoom out"
+#~ msgstr "התרחק"
+
+#~ msgid "Fonts"
+#~ msgstr "גופנים"
+
+#~ msgid "Increase font size"
+#~ msgstr "הגדלת גודל גופן"
+
+#~ msgid "Decrease font size"
+#~ msgstr "הקטנת גודל גופן"
+
+#~ msgid "Readable font"
+#~ msgstr "גופן קריא"
+
+#~ msgid "Color Contrast"
+#~ msgstr "ניגודיות צבעים"
+
+#~ msgid "Bright contrast"
+#~ msgstr "ניגודיות בהירה"
+
+#~ msgid "Dark contrast"
+#~ msgstr "ניגודיות כהה"
+
+#~ msgid "Underline links"
+#~ msgstr "קו תחתי לקישורים"
+
+#~ msgid "Mark links"
+#~ msgstr "סימון קישורים"
+
+#~ msgid "Reset all options"
+#~ msgstr "איפוס כל ההגדרות"
+
+#~ msgid "Reset the accessibility toolbar options"
+#~ msgstr "איפוס כל הגדרות סרגל הנגישות"
+
+#~ msgid "the link will open in a new tab"
+#~ msgstr "הקישור יפתח בכרטיסיה חדשה"
+
+#~ msgid "Missing ALT's"
+#~ msgstr "תמונות ללא טקסט חלופי"
+
+#~ msgid "ID"
+#~ msgstr "מזהה"
+
+#~ msgid "Thumbnail"
+#~ msgstr "תמונה"
+
+#~ msgid "Image Name"
+#~ msgstr "שם התמונה"
+
+#~ msgid "Add your ALT"
+#~ msgstr "הוספת טקסט חלופי"
+
+#~ msgid "Thumbnail of"
+#~ msgstr "תמונה מתוך"
+
+#~ msgid "Congratulation! You don't have images without ALT text."
+#~ msgstr "מעולה! אין לך תמונת שחסר להן טקסט חלופי."
+
+#~ msgid " Missing ALT's"
+#~ msgstr "תמונות ללא טקסט חלופי"
+
+#~ msgid "Aghai"
+#~ msgstr "קידום אתרים אורגני "
+
+#~ msgid "AGHAI ONLINE STORE"
+#~ msgstr "בניית חנות וירטואלית"
+
+#~ msgid "AGHAI Business Website"
+#~ msgstr "בניית אתרים לעסקים "
+
+#~ msgid "AGHAI Logo Design"
+#~ msgstr "עיצוב לוגו"
+
+#~ msgid "AGHAI MARKETING AGENCY"
+#~ msgstr "קידום אתרים "
+
+#~ msgid "AGHAI BRANDING"
+#~ msgstr "מיתוג"
